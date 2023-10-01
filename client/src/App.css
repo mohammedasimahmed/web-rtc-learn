@@ -1,0 +1,21 @@
+video {
+    transform: rotateY(180deg);
+}
+.videoContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.video{
+    height: 300px;
+    width: 300px;
+    margin: 8px;
+    display: none;
+}
+.Myvideo{
+    height: 300px;
+    width: 300px;
+    margin: 8px;
+}
+body{
+    background-color: rgb(60, 4, 77)
+}
